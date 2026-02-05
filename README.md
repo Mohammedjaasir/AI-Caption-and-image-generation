@@ -206,7 +206,7 @@ MIT License - feel free to use this project for personal or commercial purposes.
 If you encounter any issues or have questions:
 1. Check the [Troubleshooting](#-troubleshooting) section
 2. Open an issue on GitHub
-3. Contact: [Your Email]
+3. Contact: jaasirjaasir76@gmail.com
 
 ## 🌟 Show Your Support
 
